@@ -1,0 +1,18 @@
+{
+  "history": [
+    {"date": "2026-04-01", "stars": 0, "daily_gain": 0, "timestamp": "2026-04-01T00:00:00"},
+    {"date": "2026-04-02", "stars": 3, "daily_gain": 3, "timestamp": "2026-04-02T00:00:00"},
+    {"date": "2026-04-03", "stars": 8, "daily_gain": 5, "timestamp": "2026-04-03T00:00:00"},
+    {"date": "2026-04-04", "stars": 12, "daily_gain": 4, "timestamp": "2026-04-04T00:00:00"},
+    {"date": "2026-04-05", "stars": 15, "daily_gain": 3, "timestamp": "2026-04-05T00:00:00"},
+    {"date": "2026-04-06", "stars": 18, "daily_gain": 3, "timestamp": "2026-04-06T00:00:00"},
+    {"date": "2026-04-07", "stars": 22, "daily_gain": 4, "timestamp": "2026-04-07T00:00:00"},
+    {"date": "2026-04-08", "stars": 28, "daily_gain": 6, "timestamp": "2026-04-08T00:00:00"},
+    {"date": "2026-04-09", "stars": 35, "daily_gain": 7, "timestamp": "2026-04-09T00:00:00"},
+    {"date": "2026-04-10", "stars": 42, "daily_gain": 7, "timestamp": "2026-04-10T00:00:00"},
+    {"date": "2026-04-11", "stars": 48, "daily_gain": 6, "timestamp": "2026-04-11T00:00:00"},
+    {"date": "2026-04-12", "stars": 55, "daily_gain": 7, "timestamp": "2026-04-12T00:00:00"},
+    {"date": "2026-04-13", "stars": 63, "daily_gain": 8, "timestamp": "2026-04-13T00:00:00"}
+  ],
+  "milestones": {}
+}

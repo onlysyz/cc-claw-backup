@@ -1,0 +1,54 @@
+# CC-Claw Documentation Configuration
+
+title: CC-Claw 文档
+description: 让 Claude Code 拥有 24/7 自主工作能力的 AI Agent
+baseurl: ""
+url: "https://docs.cc-claw.dev"
+
+# Navigation
+nav:
+  - title: 快速开始
+    url: /docs/getting-started
+  - title: API 参考
+    url: /docs/api
+  - title: 核心功能
+    children:
+      - title: 目标引擎
+        url: /docs/goal-engine
+      - title: 持久化记忆
+        url: /docs/memory
+      - title: 多 Agent 协作
+        url: /docs/multi-agent
+      - title: 智能重试
+        url: /docs/retry
+      - title: 内置工具
+        url: /docs/tools
+  - title: 配置
+    url: /docs/configuration
+  - title: 常见问题
+    url: /docs/faq
+
+# SEO
+meta:
+  keywords:
+    - cc-claw
+    - Claude Code
+    - AI agent
+    - autonomous coding
+    - AI 编程
+    - 自动编程
+    - 人工智能
+  author: CC-Claw Team
+
+# Google Analytics
+analytics:
+  provider: google
+  google:
+    tracking_id: G-XXXXXXXXXX
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Output
+permalink: /:title/
